@@ -1,6 +1,6 @@
 package com.appgate.SocialMention.model;
 
-public enum SocialMediaAccount {
+public enum SocialMediaEnum {
 
     FACEBOOK,
     TWITTER
