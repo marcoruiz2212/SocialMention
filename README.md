@@ -28,3 +28,4 @@ Refactor
 
 3. Al usar esta separacion por medio de modulos, usando diferentes patrones es mas sencillo entender el codigo y hacer mantenibilidad de este mismo.
 
+4. NOTA: Para el acceso a base de datos tambien se podria hacer uso del patron stategy, pero no lo hice para no alargar el codigo
